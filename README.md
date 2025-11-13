@@ -339,14 +339,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## Contact & Support
-
-- **GitHub Issues**: [Create an issue](https://github.com/yourusername/web3-investment-platform/issues)
-- **Documentation**: [View full docs](https://github.com/yourusername/web3-investment-platform/wiki)
-- **Community**: [Join Discord](https://discord.gg/your-server)
-
----
-
 ## Roadmap
 
 - [ ] Multi-chain support (Ethereum, Polygon, Arbitrum)
@@ -360,4 +352,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ by the Web3 Investment Platform Team**
+**Made with ❤️ 
